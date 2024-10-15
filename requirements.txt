@@ -1,0 +1,10 @@
+torch
+transformers
+Pillow
+tk
+datetime
+csv
+threading
+random
+re
+string
