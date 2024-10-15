@@ -5,7 +5,9 @@
 
 ## Description
 
-AINamify is a Python application that uses AI (via the BLIP model) to generate unique and descriptive filenames for images. The app provides a graphical user interface (GUI) using Tkinter, allowing users to rename images in bulk based on AI-generated captions. It also ensures uniqueness in filenames by appending a random string and allows for easy processing of image directories. 
+AINamify is a Python application that uses AI (via the local Saleforce BLIP model) to generate unique and descriptive filenames for images. The app provides a graphical user interface (GUI) using Tkinter, allowing users to rename images in bulk based on AI-generated captions. It also ensures uniqueness in filenames by appending a random string and allows for easy processing of image directories.
+
+NOTE: FAST image rename process even on local CPU with no GPU.
 
 ## Features
 
