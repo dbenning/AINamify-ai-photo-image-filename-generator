@@ -1,7 +1,7 @@
 # AINamify - Image Renamer with AI
 
 **Version**: 1.0 beta  
-**Author**: Dan Bennington and ChatGPT 4.0  
+**Author**: Dan Bennington with help from ChatGPT 4.0 ;)
 
 ## Description
 
